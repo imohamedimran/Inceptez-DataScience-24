@@ -1,0 +1,14 @@
+Given an equation, what is the value of X where Y is minimum?
+
+Differentiation tells in which direction I should move to find the minimum value.
+
+To achieve the lowest point in the mountain, we need 
+1. Direction
+2. Momentum (step)
+
+When we try to differentiate (at a point) where y is minimal, the differentiation will be almost zero. Meaning, it cannot move further in any direction.
+
+ 
+ 
+ 
+
